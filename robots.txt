@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Lallji1141.github.io/docs-817jg6/sitemap.xml
